@@ -1,6 +1,6 @@
 # GerenciaPix
 
-Aplicativo mobile desenvolvido utilizando framework Flutter juntamente com a poderosa biblioteca <a> href="https://pub.dev/packages/get">Getx</a>. Possibilita gerar cobranças pix com QR Code e gerenciar o status do pagamento do Pix.
+Aplicativo mobile desenvolvido utilizando framework Flutter juntamente com a poderosa biblioteca GetX. Que possibilita gerar cobranças pix com QR Code e gerenciar o status do pagamento do Pix.
  
 
 ## Video
